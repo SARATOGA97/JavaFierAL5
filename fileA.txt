@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Adding some functionality A1.
+
